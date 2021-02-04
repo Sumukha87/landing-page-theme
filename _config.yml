@@ -30,3 +30,5 @@ social:
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
     url: 
+
+theme: jekyll-theme-cayman
